@@ -1,2 +1,1 @@
-# default-custom-taxonomy
-WordPress Default Custom Taxonomy
+# WordPress Default Custom Taxonomy
