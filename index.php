@@ -1,8 +1,8 @@
 <?php
 /*
- * Created by: Gruffi.com
+ * Created by: Halak.pl
  * Author: Marcin Halak (@versoo90)
- * Autror: marcin@gruffi.com
+ * Autror: marcin@halak.pl
  */
 
 // DEFAULT SETTINGS
